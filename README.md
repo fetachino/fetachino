@@ -1,4 +1,4 @@
-# Hi, I'm fetachino
+# Hi, I'm Ahmed Balde
 
 I build practical software and test automation projects focused on application support, quality engineering, troubleshooting, and maintainable delivery workflows. I am developing my skills for Application Support, QA Automation, Software Testing, and junior Software Engineering roles.
 

@@ -2,6 +2,13 @@
 
 I build practical software and test automation projects focused on application support, quality engineering, troubleshooting, and maintainable delivery workflows. I am developing my skills for Application Support, QA Automation, Software Testing, and junior Software Engineering roles.
 
+
+## Core focus
+
+- **GIS & Spatial Data** — building the Indy Geospatial Accessibility Platform with PostGIS, GeoPandas, and MapLibre.
+- **Backend/API Development** — designing FastAPI and Spring Boot services backed by PostgreSQL.
+- **Data Engineering** — creating reproducible pipelines, validation workflows, and audit reporting.
+- **SQL** — using relational data modeling, querying, and troubleshooting across analytics and application projects.
 ## Top 6 projects
 
 A selection of projects that shows my range across GIS, backend systems, data engineering, analytics, and quality engineering.
@@ -22,6 +29,7 @@ A selection of projects that shows my range across GIS, backend systems, data en
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![SQL](https://img.shields.io/badge/SQL-336791?logo=databricks&logoColor=white)](https://www.iso.org/standard/63555.html)
 [![PostGIS](https://img.shields.io/badge/PostGIS-4169E1?logo=postgis&logoColor=white)](https://postgis.net/)
 [![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?logo=python&logoColor=white)](https://geopandas.org/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)

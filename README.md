@@ -47,10 +47,6 @@ These projects match the repositories currently pinned on my GitHub profile.
 [![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)](https://prometheus.io/)
 [![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)](https://grafana.com/)
 [![pgvector](https://img.shields.io/badge/pgvector-PostgreSQL-4169E1?logo=postgresql&logoColor=white)](https://github.com/pgvector/pgvector)
-## Technologies
-
-Java · Spring Boot · Maven · SQL · H2 · Node.js · TypeScript · Playwright · GitHub Actions · Azure DevOps concepts
-
 ## What these projects demonstrate
 
 - Building GIS and spatial-data workflows that turn public data into transparent, documented indicators.

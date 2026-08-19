@@ -22,7 +22,7 @@ A selection of projects that shows my range across GIS, backend systems, data en
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![PostGIS](https://img.shields.io/badge/PostGIS- blue?logo=postgis&logoColor=white)](https://postgis.net/)
+[![PostGIS](https://img.shields.io/badge/PostGIS-4169E1?logo=postgis&logoColor=white)](https://postgis.net/)
 [![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?logo=python&logoColor=white)](https://geopandas.org/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
 [![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white)](https://kafka.apache.org/)

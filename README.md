@@ -1,6 +1,6 @@
 # Hi, I'm Ahmed Balde
 
-I build practical software and test automation projects focused on application support, quality engineering, troubleshooting, and maintainable delivery workflows. I am developing my skills for Application Support, QA Automation, Software Testing, and junior Software Engineering roles.
+I build practical software, data, GIS, and test-automation projects with a focus on application support, quality engineering, backend/API development, and reproducible delivery. I am pursuing opportunities in Application Support, QA Automation, Software Testing, Junior Software Engineering, GIS/Data Engineering, and entry-level Data or AI Engineering.
 
 
 ## Core focus

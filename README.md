@@ -2,6 +2,17 @@
 
 I build practical software and test automation projects focused on application support, quality engineering, troubleshooting, and maintainable delivery workflows. I am developing my skills for Application Support, QA Automation, Software Testing, and junior Software Engineering roles.
 
+## Computer science and GIS focus
+
+I also build geospatial software and data workflows that connect computer science fundamentals with practical GIS questions. My current focus includes spatial data engineering, reproducible analysis, API design, and accessible map interfaces.
+
+### [Indy Geospatial Accessibility Platform](https://github.com/fetachino/indy-geospatial-accessibility-platform)
+
+A GIS portfolio project investigating access to public transit and essential services across Marion County, Indiana. It includes reproducible public-data acquisition, validated PostGIS ETL, transparent accessibility analysis, a FastAPI GeoJSON API, and an interactive React/MapLibre map.
+
+**GIS/CS stack:** Python · GeoPandas · PostGIS · FastAPI · React · TypeScript · MapLibre · Docker · GitHub Actions
+
+Results are documented as centroid-based straight-line proximity indicators, with limitations clearly stated; the project does not claim walking access, policy recommendations, or licensed ArcGIS publication.
 ## Featured projects
 
 ### [SupportLab — Java Application Support Lab](https://github.com/fetachino/java-application-support-lab)

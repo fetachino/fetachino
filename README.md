@@ -11,15 +11,14 @@ I build practical software and test automation projects focused on application s
 - **SQL** — using relational data modeling, querying, and troubleshooting across analytics and application projects.
 ## Top 6 projects
 
-A selection of projects that shows my range across GIS, backend systems, data engineering, analytics, and quality engineering.
+These projects match the repositories currently pinned on my GitHub profile.
 
 1. [**Indy Geospatial Accessibility Platform**](https://github.com/fetachino/indy-geospatial-accessibility-platform) — PostGIS, FastAPI, React, and MapLibre platform for transparent Marion County transit and essential-service accessibility indicators.
-2. [**Document Intelligence Platform**](https://github.com/fetachino/document-intelligence-platform) — Full-stack OCR, document review, vector search, and citation-grounded Q&A workspace using FastAPI, React, PostgreSQL, and Docker.
-3. [**Cloud Data Engineering Platform**](https://github.com/fetachino/cloud-data-engineering-platform) — Reproducible e-commerce event pipeline with Python contracts, Kafka, PostgreSQL, Airflow, dbt, FastAPI, and a React dashboard.
-4. [**Quantium Retail Analytics**](https://github.com/fetachino/quantium-retail-analytics) — Python case study covering customer segmentation, matched-control experimentation, uplift testing, and executive recommendations.
-5. [**Automated Regression Testing Suite**](https://github.com/fetachino/automated-regression-testing-suite) — 42-scenario TypeScript and Playwright framework with Page Objects, fixtures, CI, HTML reports, and failure evidence.
-6. [**Java Application Support Lab**](https://github.com/fetachino/java-application-support-lab) — Spring Boot support-ticket application demonstrating SQL troubleshooting, MVC testing, validation, and maintainable CI.
-
+2. [**Cloud Data Engineering Platform**](https://github.com/fetachino/cloud-data-engineering-platform) — Reproducible e-commerce event pipeline with Python contracts, Kafka, PostgreSQL, Airflow, dbt, FastAPI, and a React dashboard.
+3. [**Loyalty Analytics Agent**](https://github.com/fetachino/loyalty-analytics-agent) — FastAPI loyalty analytics platform with a secure dashboard and constrained AI analyst.
+4. [**Java Application Support Lab**](https://github.com/fetachino/java-application-support-lab) — Spring Boot support-ticket application demonstrating SQL troubleshooting, MVC testing, validation, and maintainable CI.
+5. [**Automated Regression Testing Suite**](https://github.com/fetachino/automated-regression-testing-suite) — TypeScript and Playwright framework with Page Objects, fixtures, CI, HTML reports, and failure evidence.
+6. [**Document Intelligence Platform**](https://github.com/fetachino/document-intelligence-platform) — Full-stack OCR, document review, vector search, and citation-grounded Q&A workspace using FastAPI, React, PostgreSQL, and Docker.
 ## Linked technology stack
 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)

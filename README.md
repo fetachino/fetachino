@@ -43,11 +43,12 @@ Java · Spring Boot · Maven · SQL · H2 · Node.js · TypeScript · Playwright
 
 ## What these projects demonstrate
 
-- Diagnosing application behavior across the UI, service, and persistence layers
-- Designing maintainable automated regression coverage
-- Documenting test strategy, defects, support procedures, and delivery controls
-- Building reproducible CI workflows with useful failure evidence
-
+- Building GIS and spatial-data workflows that turn public data into transparent, documented indicators.
+- Designing maintainable backend and API services with FastAPI, Spring Boot, PostgreSQL, and SQL.
+- Creating reproducible data pipelines with validation, audit reporting, and clear data-quality limitations.
+- Applying analytics methods such as segmentation, matched-control experimentation, and uplift analysis.
+- Developing AI-enabled document and analytics workflows with traceable outputs and explicit boundaries.
+- Designing automated browser coverage, meaningful test evidence, and repeatable CI delivery practices.
 ## Collaborative coursework
 
 I have also contributed to team repositories involving Python/FastAPI integration, C# API work, and shared GitHub pull-request workflows.

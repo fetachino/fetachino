@@ -30,17 +30,6 @@ A selection of projects that shows my range across GIS, backend systems, data en
 [![dbt](https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=white)](https://www.getdbt.com/)
 [![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white)](https://playwright.dev/)
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)](https://github.com/features/actions)
-## Computer science and GIS focus
-
-I also build geospatial software and data workflows that connect computer science fundamentals with practical GIS questions. My current focus includes spatial data engineering, reproducible analysis, API design, and accessible map interfaces.
-
-### [Indy Geospatial Accessibility Platform](https://github.com/fetachino/indy-geospatial-accessibility-platform)
-
-A GIS portfolio project investigating access to public transit and essential services across Marion County, Indiana. It includes reproducible public-data acquisition, validated PostGIS ETL, transparent accessibility analysis, a FastAPI GeoJSON API, and an interactive React/MapLibre map.
-
-**GIS/CS stack:** Python · GeoPandas · PostGIS · FastAPI · React · TypeScript · MapLibre · Docker · GitHub Actions
-
-Results are documented as centroid-based straight-line proximity indicators, with limitations clearly stated; the project does not claim walking access, policy recommendations, or licensed ArcGIS publication.
 ## Featured projects
 
 ### [SupportLab — Java Application Support Lab](https://github.com/fetachino/java-application-support-lab)

@@ -1,55 +1,72 @@
-# Hi, I'm fetachino
+# Ahmed Balde
 
-I build practical software and test automation projects focused on application support, quality engineering, troubleshooting, and maintainable delivery workflows. I am developing my skills for Application Support, QA Automation, Software Testing, and junior Software Engineering roles.
+Software engineer and data-focused developer building practical systems across application support, quality engineering, geospatial analysis, AI/ML, and cybersecurity.
 
-## Featured projects
+I focus on projects that are reproducible, documented, tested, and grounded in a real operational problem.
 
-### [SupportLab — Java Application Support Lab](https://github.com/fetachino/java-application-support-lab)
+## Featured engineering projects
 
-A Spring Boot support-ticket application demonstrating Java 17, Spring MVC, Thymeleaf, H2, validation, SQL troubleshooting, unit and integration testing, GitHub Actions, Agile documentation, and upgrade planning.
+### [Indy Geospatial Accessibility Platform](https://github.com/fetachino/indy-geospatial-accessibility-platform)
 
-### [Automated Regression Testing Suite](https://github.com/fetachino/automated-regression-testing-suite)
+Full-stack PostGIS, FastAPI, React, and MapLibre application measuring public-transit and essential-service accessibility across Marion County, Indiana. Includes reproducible spatial analysis, API tests, responsive maps, architecture documentation, and verified desktop/mobile screenshots.
 
-A standalone TypeScript and Playwright framework with 42 traceable browser scenarios, Page Objects, reusable fixtures, unique test-data factories, HTML and Allure reports, failure evidence, and CI that starts and tests the Java application.
+### [Document Intelligence Platform](https://github.com/fetachino/document-intelligence-platform)
 
-## Technologies
+FastAPI and React document-processing workspace using PostgreSQL, Docker, OCR, and structured extraction to turn uploaded documents into searchable information.
 
-Java · Spring Boot · Maven · SQL · H2 · Node.js · TypeScript · Playwright · GitHub Actions · Azure DevOps concepts
+### [Cloud Data Engineering Platform](https://github.com/fetachino/cloud-data-engineering-platform)
 
-## What these projects demonstrate
+Cloud-oriented e-commerce data platform with event ingestion, analytics pipelines, APIs, dashboards, containerized local development, and AWS infrastructure.
 
-- Diagnosing application behavior across the UI, service, and persistence layers
-- Designing maintainable automated regression coverage
-- Documenting test strategy, defects, support procedures, and delivery controls
-- Building reproducible CI workflows with useful failure evidence
+### [Loyalty Analytics Agent](https://github.com/fetachino/loyalty-analytics-agent)
 
-## Team experience
+Production-style FastAPI analytics application with a secure dashboard, constrained AI assistance, validation, and deployment documentation.
+
+## Quality engineering and application support
+
+- [Automated Regression Testing Suite](https://github.com/fetachino/automated-regression-testing-suite) — Playwright and TypeScript framework with traceable browser scenarios, Page Objects, CI, HTML/Allure reporting, screenshots, video, and failure traces.
+- [Java Application Support Lab](https://github.com/fetachino/java-application-support-lab) — Spring Boot support application demonstrating Java upgrades, SQL troubleshooting, regression testing, validation, and CI.
+- [Workforce Data Audit Tool](https://github.com/fetachino/workforce-data-audit-tool) — Installable Python and SQL data-validation tool with risk analysis, audit reporting, tests, and documentation.
+
+## AI, data science, and algorithms
+
+- [Smart Desk AI Monitor](https://github.com/fetachino/smart-desk-ai-monitor) — Flask/MQTT environment monitor with simulated IoT telemetry and machine-learning classification.
+- [Fashion-MNIST Model Compression](https://github.com/fetachino/fashion-mnist-model-compression) — PyTorch comparison of pruning, static quantization, and quantization-aware training.
+- [Image Entropy Analysis](https://github.com/fetachino/image-entropy-analysis) — 24-bit RGB Shannon-entropy pipeline with aggregate results and static reporting.
+- [CSCI 489 Data Science Case Studies](https://github.com/fetachino/csci489-data-science-case-studies) — R analysis and imbalanced-classification case studies.
+- [Sorting Algorithm Benchmark](https://github.com/fetachino/sorting-algorithm-benchmark) — Instrumented C++ comparison of insertion sort, merge sort, and quicksort.
+
+## Cybersecurity and networking
+
+- [Advanced Network Security Labs](https://github.com/fetachino/cit406-advanced-network-security-labs) — Sanitized case studies in vulnerability assessment, traffic analysis, threat hunting, monitoring, and hardening.
+- [Digital Forensics Investigations](https://github.com/fetachino/digital-forensics-investigations) — Evidence-handling, artifact-analysis, timeline, network, email, and mobile-forensics case studies.
+- [Cisco Packet Tracer Network Design](https://github.com/fetachino/cisco-packet-tracer-network-design) — VLAN segmentation, trunking, connectivity validation, and a network/VPN topology.
+- [Cybersecurity Python Projects](https://github.com/fetachino/cybersecurity-python-projects) — Tested educational implementations of foundational security concepts.
+
+## Team contributions
 
 ### [Model Evaluation System](https://github.com/CSCI46500/Software-Project)
 
-- **Role:** Integration contributor on a course team building a Python system for evaluating AI models, datasets, and repositories.
-- **My contribution:** Opened [PR #17](https://github.com/CSCI46500/Software-Project/pull/17) to bring the team's frontend/backend integration branch together for review, including the FastAPI evaluation endpoint, AWS Lambda handler, DynamoDB writer, and model-evaluation dependencies.
-- **How work was divided:** Teammates owned the evaluation engine, resource handlers, metrics, and deployment pieces; I helped surface the combined integration branch through the pull-request workflow.
-- **Technologies:** Python, FastAPI, Pydantic, AWS Lambda, DynamoDB, Hugging Face tooling, GitHub pull requests.
-- **Testing and review:** The repository documents a 24-test suite with coverage across classification, handlers, metrics, logging, and errors. The open integration PR also taught me to keep generated files and unrelated commits out of reviewable changes.
-- **Outcome and lesson:** The team produced an eight-metric evaluator with NDJSON output. I learned that integration PRs need narrow scope, clear ownership, clean commit history, and verification evidence—not only working code.
+Integration contributor on a Python system evaluating AI models, datasets, and repositories. I opened [PR #17](https://github.com/CSCI46500/Software-Project/pull/17) to bring the frontend/backend integration branch together for review. Teammates owned the core evaluation engine, handlers, metrics, and deployment components.
 
 ### [.NET REST and Web Team Project](https://github.com/CSCI-36100-Project-Brandon-Ahmed/Group-Project-Repo)
 
-- **Role:** API contributor working through ticket-based branches in a two-person course repository.
-- **My contribution:** Updated the C# weather-forecast endpoint from seven to eleven returned days and synchronized the ticket branch with `main` in merged [PR #14](https://github.com/CSCI-36100-Project-Brandon-Ahmed/Group-Project-Repo/pull/14).
-- **How work was divided:** Work was tracked as small tickets and completed on separate branches before integration into the shared default branch.
-- **Technologies:** C#, ASP.NET Core minimal APIs, Swagger/OpenAPI, static HTML, Git and GitHub.
-- **Testing and review:** Endpoint behavior could be checked through Swagger, the browser, curl, or Postman; the branch was updated against `main` before merge.
-- **Outcome and lesson:** The change shipped through a merged PR. I learned to keep API behavior changes tied to a specific ticket and to reconcile the shared branch before integration.
+API contributor working through ticket-based branches. My merged [PR #14](https://github.com/CSCI-36100-Project-Brandon-Ahmed/Group-Project-Repo/pull/14) updated the C# weather endpoint and synchronized the feature branch with the shared default branch.
 
-### [CSCI45000 Software Engineering Team Project](https://github.com/Sunaio/CSCI45000-Team-Project)
+### [CSCI 45000 Software Engineering Team Project](https://github.com/Sunaio/CSCI45000-Team-Project)
 
-- **Role:** Early-stage team contributor practicing shared-repository workflow.
-- **My contribution:** Used a personal feature branch and completed merged [PR #5](https://github.com/Sunaio/CSCI45000-Team-Project/pull/5) during repository setup.
-- **How work was divided:** Five contributors worked through individual branches in a shared Python repository.
-- **Technologies:** Python, Git branching, and GitHub pull requests.
-- **Testing and review:** This initial PR exercised branch synchronization and merge review rather than delivering a production feature.
-- **Outcome and lesson:** The experience established the team workflow and showed me why descriptive PR titles, meaningful diffs, and explicit test evidence matter. I now apply those practices in newer projects.
+Early-stage workflow contribution through a personal feature branch and merged [PR #5](https://github.com/Sunaio/CSCI45000-Team-Project/pull/5). This contribution focused on repository workflow rather than a production feature.
 
-Explore the pinned repositories below for source code, architecture, test coverage, screenshots, and setup instructions.
+## Core technologies
+
+Python · Java · C++ · R · TypeScript · SQL · FastAPI · Flask · Spring Boot · React · Playwright · PostgreSQL/PostGIS · Docker · AWS · GitHub Actions · Wireshark
+
+## What I bring
+
+- Evidence-driven troubleshooting across application, API, database, and browser layers
+- Automated testing with useful failure diagnostics
+- Reproducible data and geospatial analysis
+- Clear technical documentation, setup instructions, and limitations
+- Responsible handling of security, forensic, and team-project material
+
+Every featured repository links directly to source code, setup instructions, verification evidence, or a clearly labeled case-study methodology.

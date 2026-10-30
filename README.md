@@ -4,7 +4,7 @@ Software engineer and data-focused developer building practical systems across a
 
 I focus on projects that are reproducible, documented, tested, and grounded in a real operational problem.
 
-## Featured engineering projects
+## Featured projects
 
 ### [Indy Geospatial Accessibility Platform](https://github.com/fetachino/indy-geospatial-accessibility-platform)
 

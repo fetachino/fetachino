@@ -22,6 +22,10 @@ Cloud-oriented e-commerce data platform with event ingestion, analytics pipeline
 
 Production-style FastAPI analytics application with a secure dashboard, constrained AI assistance, validation, and deployment documentation.
 
+### [Paramesh](https://github.com/fetachino/paramesh)
+
+Lightweight, self-hosted distributed PyTorch training with sharded model state, fault recovery, checkpointing, and observability.
+
 ## Quality engineering and application support
 
 - [Automated Regression Testing Suite](https://github.com/fetachino/automated-regression-testing-suite) — Playwright and TypeScript framework with traceable browser scenarios, Page Objects, CI, HTML/Allure reporting, screenshots, video, and failure traces.

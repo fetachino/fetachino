@@ -43,19 +43,6 @@ Production-style FastAPI analytics application with a secure dashboard, constrai
 - [Cisco Packet Tracer Network Design](https://github.com/fetachino/cisco-packet-tracer-network-design) — VLAN segmentation, trunking, connectivity validation, and a network/VPN topology.
 - [Cybersecurity Python Projects](https://github.com/fetachino/cybersecurity-python-projects) — Tested educational implementations of foundational security concepts.
 
-## Team contributions
-
-### [Model Evaluation System](https://github.com/CSCI46500/Software-Project)
-
-Integration contributor on a Python system evaluating AI models, datasets, and repositories. I opened [PR #17](https://github.com/CSCI46500/Software-Project/pull/17) to bring the frontend/backend integration branch together for review. Teammates owned the core evaluation engine, handlers, metrics, and deployment components.
-
-### [.NET REST and Web Team Project](https://github.com/CSCI-36100-Project-Brandon-Ahmed/Group-Project-Repo)
-
-API contributor working through ticket-based branches. My merged [PR #14](https://github.com/CSCI-36100-Project-Brandon-Ahmed/Group-Project-Repo/pull/14) updated the C# weather endpoint and synchronized the feature branch with the shared default branch.
-
-### [CSCI 45000 Software Engineering Team Project](https://github.com/Sunaio/CSCI45000-Team-Project)
-
-Early-stage workflow contribution through a personal feature branch and merged [PR #5](https://github.com/Sunaio/CSCI45000-Team-Project/pull/5). This contribution focused on repository workflow rather than a production feature.
 
 ## Skills and technology stack
 

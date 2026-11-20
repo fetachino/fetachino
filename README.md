@@ -4,6 +4,13 @@ Software engineer and data-focused developer building practical systems across a
 
 I focus on projects that are reproducible, documented, tested, and grounded in a real operational problem.
 
+## QA and application support focus
+
+For junior QA, software testing, and application-support roles, start with these two connected projects:
+
+- [Automated Regression Testing Suite](https://github.com/fetachino/automated-regression-testing-suite) — 42 traceable Playwright scenarios covering smoke, workflows, validation, errors, responsive behavior, CI, and failure evidence.
+- [Java Application Support Lab](https://github.com/fetachino/java-application-support-lab) — Spring Boot support application with SQL troubleshooting, unit and integration testing, validation, incident documentation, and CI.
+
 ## Featured projects
 
 ### [Indy Geospatial Accessibility Platform](https://github.com/fetachino/indy-geospatial-accessibility-platform)
